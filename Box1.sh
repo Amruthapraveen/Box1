@@ -12,3 +12,6 @@ X=a-b
 Division Function
 X=a/b
 
+Multiplication 
+X=a*b
+
