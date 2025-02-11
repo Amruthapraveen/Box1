@@ -9,7 +9,7 @@ X=a-b+c
 
  
 
-Division Function
+Division 
 X=a/b
 
 Multiplication 
