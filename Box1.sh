@@ -5,7 +5,7 @@ X=a+b+c
 
 
 Subtraction Function
-X=a-b
+X=a-b+c
 
  
 
