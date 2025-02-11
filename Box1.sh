@@ -4,7 +4,7 @@ Addition Function
 X=a+b+c
 
 
-Subtraction Function
+Subtraction 
 X=a-b+c
 
  
