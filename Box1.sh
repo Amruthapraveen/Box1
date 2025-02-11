@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Addition Function
+Addition 
 X=a+b+c
 
 
