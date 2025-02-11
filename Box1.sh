@@ -1,7 +1,7 @@
 #!/bin/bash
 
 Addition Function
-X=a+b
+X=a+b+c
 
 
 Subtraction Function
